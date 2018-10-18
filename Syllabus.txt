@@ -1,0 +1,44 @@
+Java Beginners Contents
+Week
+Topics
+1
+Tools and resources, Java Development Kit (JDK), Eclipse IDE
+Introduce Java, your first Java console program
+Reading Materials: Chapter 1
+2
+Variables, data types
+Arithmetic calculations
+Math functions and constants
+Operators: arithmetic, increment/decrement, assignment
+Control logics: selections with if, if..else, switch
+Logical operators
+Debugging
+Reading Materials: Chapters 2 & 3
+3
+Math class
+Characters and Strings
+Control Statements: Loops
+Exceptions
+Reading Materials: Chapters 4, 5, & 12
+4
+Arrays
+Methods
+Reading Materials: Chapters 6 & 7
+5
+Object oriented vs. procedural programming methodologies
+Classes and objects
+Reusable codes
+Reading Materials: Chapters 9 & 10
+6
+Encapsulation and Access control
+Inheritance & Polymorphism
+Abstract class and Interface
+Reading Materials: Chapters 11 & 13
+7
+Java collections, Generics
+File handling
+Reading Materials: Chapters 7 & 12
+8
+Event driven programming
+Swing API
+Reading Materials: Chapters 15 & 16 from Java Programming 4th Edition, Joel Murach
